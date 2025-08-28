@@ -1,4 +1,4 @@
-MiniOS16 1.x
+MiniOS16 1.2
 ============
 
 MiniOS16 je jednoduchý 16bitový operační systém napsaný v jazyku symbolických adres.
@@ -54,3 +54,4 @@ NNW Developer
 https://nnwdev.fun
 MiniOS16 byl vytvořen jako učební projekt. 
 Verze: 1.2
+
